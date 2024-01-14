@@ -83,4 +83,4 @@ ax.autoscale()
 ax.margins(0.1)
 ax.legend()
 
-fig.savefig('test.pdf')
+fig.savefig('plot.pdf')
